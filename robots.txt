@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jonspangler1-byte.github.io/rosebud-sled-museum/sitemap.xml
