@@ -1,0 +1,88 @@
+ROSEBUD SLED MUSEUM: SAMPLE SITE IMAGE SOURCES
+================================================
+Sled photos on the site show sleds from Jonathan Spangler's own Rosebud Sled Museum collection.
+They come from two of his files:
+  - Vintage Runner Magazine, Tuxedo Racer Edition (/workspace/vintage_runner/full_issue.pdf, 61 pages)
+  - "Runners & Relics - Sled Photos" (/workspace/vintage_runner/magazine_photos.pdf, 32 pages,
+    one photo per page, no captions). Photo pages 1-27 are byte-identical to the images
+    already extracted from magazine pages 51-61 (listed below); pages 28-32 are new.
+Four period advertisements / catalog pages (public domain) are also used; see the last section.
+No stock images and no images of people are used.
+
+Collection photos come from "Runners & Relics", PDF pages 51-61, which the contents
+page describes as "Ten sleds from a private collection, photographed and catalogued".
+The owner confirmed these are his own sleds.
+The magazine names no photographer and gives no credit line for those pages.
+Captions on the site are copied from the magazine's own catalog captions.
+
+  File                                        PDF page  Magazine caption
+  hero-flexible-flyer-3c-deck-p60.jpg         60        Flexible Flyer No. 3C, S.L. Allen & Co., Philadelphia, c. 1915-1920 (deck close-up, cropped)
+  flexible-flyer-3c-p60.jpg                   60        same sled, side view
+  whx-young-america-c1855-p51.jpg             51        W.H.X. Young America, maker unknown, c. 1855 (caption is on p59)
+  garton-dragon-head-sleigh-p52.jpg           52        Dragon Head Sleigh with early Indian Chief Stencil, Garton Toy Company, Sheboygan, WI, c. 1902-1913
+  garton-indian-chief-stencil-p52.jpg         52        same sleigh, stencil detail
+  paris-speedster-deck-p53.jpg                53        Speedster, Paris Mfg. Co., South Paris, ME, c. 1920-1930
+  quasi-sled-master-chicago-p54.jpg           54        Sled Master, Quasi Mfg. Co., Chicago, IL, c. 1947
+  pratt-chieftain-red-rocket-p55.jpg          55        "Chieftain" branded Red Rocket, Pratt Mfg. Co., Cold Water, MI, c. 1940-1952
+                                                      (site uses "Coldwater, Michigan", the town's actual spelling)
+  paris-dirigo-clipper-p56.jpg                56        Dirigo Clipper, Paris Mfg. Co., South Paris, ME, date unknown
+  paris-dirigo-clipper-deck-p56.jpg           56        same sled, deck
+  johnson-streamline-klipper-p57.jpg          57        Streamline Klipper, C. J. Johnson Mfg. Co., Bradford, PA, c. 1939-1941
+  kalamazoo-speed-demon-p58.jpg               58        Speed Demon, Kalamazoo Sled Co., Kalamazoo, MI, c. 1938
+  wagner-winner-pair-p61.jpg                  61        Wagner Winner Sleds, Wagner Mfg. Co., Cedar Falls, IA, c. 1911-1919
+  vintage-runner-tuxedo-racer-cover-p1.jpg    1         Magazine cover
+
+OWNER-SUPPLIED PHOTOS: SHERWOOD BROS. (sent by Jonathan Spangler, Oct. 29, 2026; his own sleds,
+which he identifies as Sherwood Bros.)
+  sherwood-bros-sled-top-owner.jpg               top-down view on a red carpet (resized to 1600 px tall)
+  sherwood-bros-sled-top-owner-horizontal.jpg    same photo rotated 90 degrees; main image on the Sherwood maker card
+  sherwood-bros-sled-standing-owner.jpg          sled standing among other sleds; collection gallery, "Sherwood Bros. sled"
+
+OWNER-SUPPLIED PHOTO: AMERICAN ACME (sent by Jonathan Spangler, Oct. 29, 2026; his own sled,
+which he identifies as American Acme; the deck is lettered "ICEPLANE")
+  american-acme-iceplane-owner.jpg               sled hanging upright (resized to 1600 px tall); American Acme maker card
+
+NEW PHOTOS FROM magazine_photos.pdf (no captions; no maker identified, shown as "Catalogue details to come")
+  collection-red-swirl-deck-photos-p28.jpg    photo PDF p28  red painted deck with scroll ornament (p29 is a top view of the same sled, not used)
+  collection-pictorial-deck-photos-p31.jpg    photo PDF p31  yellow painted pictorial deck (p30 is a top view of the same sled, not used)
+  collection-flying-arrow-photos-p32.jpg      photo PDF p32  sled with "Flying Arrow" lettered on the deck
+
+PHOTOS IN THE MAGAZINE THAT ARE CREDITED TO OTHERS OR ARE ARCHIVE IMAGES (NOT USED ON THE SITE)
+  - p17: Tuxedo deck stencil photo, "Courtesy of Mark Clingan."
+  - p19: Tuxedo Racer Model G photo, "Courtesy of Paul Nardelli."
+  - p7: credited "S. L. Allen & Co. archives"; p11 and p15 show S. L. Allen catalog images (1893, 1915).
+  - p32-36: Peary expedition images, credited "(Library of Congress)"; p36 notes the images are
+    from Library of Congress collections unless otherwise noted.
+  - p49-50: "Vintage Photos", "shared by a reader from a personal collection"; the
+    photographers are not documented.
+  - p20-26: Wagner trade-catalog images (1909, 1920) and a factory postcard.
+  - The articles also contain other historic newspaper ads and photos that I did not review one by one.
+
+PERIOD ADVERTISEMENTS / CATALOG PAGES (PUBLIC DOMAIN), MAKERS SECTION
+All are US publications from before 1930, so they are in the US public domain.
+Cropped from Internet Archive page scans and shown in grayscale.
+
+  ad-hunt-helm-ferris-hardware-age-1925.jpg
+    "Cannon Ball Beats 'Em All" advertisement, Hunt, Helm, Ferris & Co., Harvard, Illinois
+    (Cannon Ball coaster wagons). Hardware Age, October 8, 1925.
+    https://archive.org/details/sim_hardware-age-home-improvement-market_1925-10-08_116_15/page/n36/mode/1up
+  ad-standard-novelty-works-hardware-age-1917.jpg
+    "Success ... Lightning Guider Bob Sled" advertisement, "Manufactured by the Standard Novelty
+    Works, Duncannon, Penna." Hardware Age, January 20, 1917 (printed page 41).
+    https://archive.org/details/sim_hardware-age-home-improvement-market_1917-01-20_99_3/page/n40/mode/1up
+  ad-sherwood-bros-catalog-1920.jpg
+    Catalog page "Sherwood Bros. Manufacturing Co., Inc., Canastota, N.Y., U.S.A. Manufacturers
+    of Sleds and Coaster-Wagons" (printed page 1191), 1920; top part with coaster wagon and the
+    "Speeder" sled. Internet Archive item marked Public Domain Mark 1.0.
+    https://archive.org/details/SherwoodBrosMfgCo1920
+    The owner confirms his Sherwood sleds are Sherwood Bros. This catalog page stays in the archive row.
+  ad-auto-wheel-coaster-toys-novelties-1920.jpg
+    "Why are more Auto Wheel Coasters and Convertible Roadsters sold ..." advertisement,
+    "Auto-Wheel Coaster Co., Inc., formerly The Buffalo Sled Co., N. Tonawanda, New York".
+    Toys and Novelties, August 1920 (printed page 126).
+    https://archive.org/details/toys-and-novelties-volume-17-issue-no.-7-12-july-december-1920/page/n278/mode/1up
+    NOTE: the site heading uses the magazine's spelling "Auto Coaster Wheel Co." (owner's choice);
+    period sources spell it "Auto-Wheel Coaster Co."
+
+  American Acme: no advertisement under that name could be verified, so none is used. The maker
+  card uses the owner's own photo instead (see above).
