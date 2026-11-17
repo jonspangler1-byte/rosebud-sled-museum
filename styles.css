@@ -104,9 +104,9 @@ figcaption .m{font-size:.78rem;color:var(--muted);margin-top:4px;letter-spacing:
 .feature p{color:var(--ink-soft);margin:0 0 28px}
 .audiences{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 40px;padding:0;list-style:none}
 .audiences li{font-size:.78rem;letter-spacing:.1em;text-transform:uppercase;border:1px solid var(--line);padding:8px 14px;color:var(--ink-soft)}
-.talks-row{display:grid;grid-template-columns:repeat(2,1fr);gap:28px;margin:0 0 72px}
+.talks-row{display:grid;grid-template-columns:repeat(3,1fr);gap:28px;margin:0 0 72px}
 .talks-row figure{margin:0}
-.talks-row img{width:100%;height:420px;object-fit:cover}
+.talks-row img{width:100%;height:320px;object-fit:cover}
 .event-card{background:#fff;display:flex;flex-direction:column}
 .event-card .ph{overflow:hidden;background:#eceae6}
 .event-card .txt{padding:28px 32px 36px;display:flex;flex-direction:column;flex:1}
